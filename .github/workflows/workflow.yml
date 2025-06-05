@@ -25,4 +25,3 @@ jobs:
         with:
           name: "diagram"
           path: "downloads"
-          should_push: false

@@ -5,6 +5,7 @@ on: push
 jobs:
 
   run-tests:
+    name: Static site action
     runs-on: node-12
 
     steps:
